@@ -4,8 +4,8 @@ This project was developed as part of working with VeriSync Labs, showcasing ski
 
 # Project Features:
 
-Responsive Design: Ensures a smooth user experience across devices with grid layouts on desktop and single-column views on mobile.
-Data Fetching and Display: User data is fetched from a mock API and presented in an intuitive card-based layout.
-Search and Sort Functionalities: Allows for easy filtering by name or username and sorting options for efficient data navigation.
-User Details Modal: Includes a hover-triggered "View Details" button on each user card, leading to a modal with comprehensive user information (address, phone, website).
-Clean UI: Emphasizes a visually appealing and functional design, with a focus on user engagement and data accessibility.
+* Responsive Design: Ensures a smooth user experience across devices with grid layouts on desktop and single-column views on mobile.
+* Data Fetching and Display: User data is fetched from a mock API and presented in an intuitive card-based layout.
+* Search and Sort Functionalities: Allows for easy filtering by name or username and sorting options for efficient data navigation.
+* User Details Modal: Includes a hover-triggered "View Details" button on each user card, leading to a modal with comprehensive user information (address, phone, website).
+* Clean UI: Emphasizes a visually appealing and functional design, with a focus on user engagement and data accessibility.
