@@ -9,3 +9,11 @@ This project was developed as part of working with VeriSync Labs, showcasing ski
 * Search and Sort Functionalities: Allows for easy filtering by name or username and sorting options for efficient data navigation.
 * User Details Modal: Includes a hover-triggered "View Details" button on each user card, leading to a modal with comprehensive user information (address, phone, website).
 * Clean UI: Emphasizes a visually appealing and functional design, with a focus on user engagement and data accessibility.
+
+
+![image](https://github.com/user-attachments/assets/36bbb908-afc0-4c8c-85e8-a03ff37417bd)
+
+![image](https://github.com/user-attachments/assets/1196da8e-0db3-436f-a7c6-d3316520924e)
+
+![image](https://github.com/user-attachments/assets/fb85d854-da01-4cda-8512-5b472bb0eefa)
+
